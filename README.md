@@ -21,7 +21,6 @@ please check my original codes and reports.
 - 2.assn
 - 3.assn
 - 4.assn
-- 5.assn
 
 please refer to readme.md in each folder.
 they are also written by TAs, if there are any related issues please contact me so that I can delete all related codes.
